@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Raghuraman439
+- 👋 Hi, I’m Raghuraman
 - 👀 I’m interested in AWS, Appian
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on AWS
-- 📫 How to reach me ...
 
 <!---
 Raghuraman439/Raghuraman439 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
